@@ -41,7 +41,7 @@
   ],
   "China": [
     {
-      "region": "Asia",
+      "region": "APAC",
       "partner": "Shanghai Huayang Maritime Sci-Tech Development Company LTD",
       "phone": "",
       "email": "",
@@ -49,7 +49,7 @@
       "hiringFor": ""
     },
     {
-      "region": "Asia",
+      "region": "APAC",
       "partner": "Sealand Maritime Service Company LTD",
       "phone": "",
       "email": "",
@@ -57,7 +57,7 @@
       "hiringFor": ""
     },
     {
-      "region": "Asia",
+      "region": "APAC",
       "partner": "Jiangsu International Economic and Technical Cooperation Group LTD",
       "phone": "",
       "email": "",
@@ -65,7 +65,7 @@
       "hiringFor": ""
     },
     {
-      "region": "Asia",
+      "region": "APAC",
       "partner": "V. Group Manpower Services C/O V.Ships UK LTD - China",
       "phone": "",
       "email": "",
@@ -73,7 +73,7 @@
       "hiringFor": ""
     },
     {
-      "region": "Asia",
+      "region": "APAC",
       "partner": "V. Group Manpower Services C/O V.Ships UK LTD - China (WEIHAI)",
       "phone": "",
       "email": "",
@@ -81,7 +81,7 @@
       "hiringFor": ""
     },
     {
-      "region": "Asia",
+      "region": "APAC",
       "partner": "V. Group Manpower Services C/O V.Ships UK LTD - China (XIAMEN)",
       "phone": "",
       "email": "",
@@ -91,7 +91,7 @@
   ],
   "India": [
     {
-      "region": "Asia",
+      "region": "APAC",
       "partner": "MSC Shipmanagement Limited (India)",
       "phone": "",
       "email": "",
@@ -101,7 +101,7 @@
   ],
   "Indonesia": [
     {
-      "region": "Asia",
+      "region": "APAC",
       "partner": "PT Bali Paradise Crew",
       "phone": "",
       "email": "",
@@ -109,7 +109,7 @@
       "hiringFor": ""
     },
     {
-      "region": "Asia",
+      "region": "APAC",
       "partner": "PT Marina Prima Sukses",
       "phone": "",
       "email": "",
@@ -117,7 +117,7 @@
       "hiringFor": ""
     },
     {
-      "region": "Asia",
+      "region": "APAC",
       "partner": "PT Las Olas",
       "phone": "",
       "email": "",
@@ -127,7 +127,7 @@
   ],
   "Malaysia": [
     {
-      "region": "Asia",
+      "region": "APAC",
       "partner": "AF Maritim SDN BHD",
       "phone": "",
       "email": "",
@@ -137,7 +137,7 @@
   ],
   "Philippines": [
     {
-      "region": "Asia",
+      "region": "APAC",
       "partner": "MSC Crewing Services Philippines",
       "phone": "",
       "email": "",
@@ -147,7 +147,7 @@
   ],
   "Samoa": [
     {
-      "region": "Oceania",
+      "region": "APAC",
       "partner": "Samoa Shipping Services LTD",
       "phone": "",
       "email": "",
@@ -157,7 +157,7 @@
   ],
   "Albania": [
     {
-      "region": "Europe",
+      "region": "EME",
       "partner": "TSTS Group SH.P.K.",
       "phone": "",
       "email": "",
@@ -167,7 +167,7 @@
   ],
   "Bulgaria": [
     {
-      "region": "Europe",
+      "region": "EME",
       "partner": "West Meridian Consulting 2002 (BGU)",
       "phone": "",
       "email": "",
@@ -177,7 +177,7 @@
   ],
   "Croatia": [
     {
-      "region": "Europe",
+      "region": "EME",
       "partner": "Bogdan Company DOO",
       "phone": "",
       "email": "",
@@ -187,7 +187,7 @@
   ],
   "Cyprus": [
     {
-      "region": "Europe",
+      "region": "EME",
       "partner": "MSC Shipmanagement (Cyprus)",
       "phone": "",
       "email": "",
@@ -197,7 +197,7 @@
   ],
   "Italy": [
     {
-      "region": "Europe",
+      "region": "EME",
       "partner": "Enterprise Shipping Agency S.R.L. (MSC)",
       "phone": "",
       "email": "",
@@ -205,7 +205,7 @@
       "hiringFor": ""
     },
     {
-      "region": "Europe",
+      "region": "EME",
       "partner": "MSC Crew Services SRL",
       "phone": "",
       "email": "",
@@ -215,7 +215,7 @@
   ],
   "Romania": [
     {
-      "region": "Europe",
+      "region": "EME",
       "partner": "West MSC Shipping Consulting (S.C.)",
       "phone": "",
       "email": "",
@@ -223,7 +223,7 @@
       "hiringFor": ""
     },
     {
-      "region": "Europe",
+      "region": "EME",
       "partner": "Ocean Jobs SC SRL",
       "phone": "",
       "email": "",
@@ -233,7 +233,7 @@
   ],
   "Serbia": [
     {
-      "region": "Europe",
+      "region": "EME",
       "partner": "BG Shipping Agency DOO",
       "phone": "",
       "email": "",
@@ -243,7 +243,7 @@
   ],
   "Ukraine": [
     {
-      "region": "Europe",
+      "region": "EME",
       "partner": "Global Marine Service",
       "phone": "",
       "email": "",
@@ -251,7 +251,7 @@
       "hiringFor": ""
     },
     {
-      "region": "Europe",
+      "region": "EME",
       "partner": "World of Seamen Group LLC",
       "phone": "",
       "email": "",
@@ -259,7 +259,7 @@
       "hiringFor": ""
     },
     {
-      "region": "Europe",
+      "region": "EME",
       "partner": "MSC Crewing Services Odessa",
       "phone": "",
       "email": "",
@@ -269,7 +269,7 @@
   ],
   "Argentina": [
     {
-      "region": "South America",
+      "region": "LATAM",
       "partner": "Caux International Group",
       "phone": "",
       "email": "",
@@ -279,7 +279,7 @@
   ],
   "Brazil": [
     {
-      "region": "South America",
+      "region": "LATAM",
       "partner": "Rosa Dos Ventos Servicos",
       "phone": "",
       "email": "",
@@ -287,7 +287,7 @@
       "hiringFor": ""
     },
     {
-      "region": "South America",
+      "region": "LATAM",
       "partner": "Valemar Brasil Me",
       "phone": "",
       "email": "",
@@ -297,7 +297,7 @@
   ],
   "Dominican Republic": [
     {
-      "region": "North America",
+      "region": "LATAM",
       "partner": "FYR Tripulantes",
       "phone": "",
       "email": "",
@@ -307,7 +307,7 @@
   ],
   "Honduras": [
     {
-      "region": "North America",
+      "region": "LATAM",
       "partner": "Agencia De Empleos Maritimos",
       "phone": "",
       "email": "",
@@ -317,7 +317,7 @@
   ],
   "Mexico": [
     {
-      "region": "North America",
+      "region": "LATAM",
       "partner": "Star Quest Reclutamiento Marítimo S.A. de C.V.",
       "phone": "",
       "email": "",
@@ -325,7 +325,7 @@
       "hiringFor": ""
     },
     {
-      "region": "North America",
+      "region": "LATAM",
       "partner": "Mexicrew",
       "phone": "",
       "email": "",
@@ -335,7 +335,7 @@
   ],
   "Peru": [
     {
-      "region": "South America",
+      "region": "LATAM",
       "partner": "CRC - Cruise Recruiting Consultants SAC",
       "phone": "",
       "email": "",
@@ -345,7 +345,7 @@
   ],
   "Trinidad and Tobago": [
     {
-      "region": "South America",
+      "region": "LATAM",
       "partner": "Meridian Recruitment Agency LTD",
       "phone": "",
       "email": "",
@@ -355,7 +355,7 @@
   ],
   "United Kingdom": [
     {
-      "region": "Europe",
+      "region": "Concessionaire",
       "partner": "Anystage Production LTD",
       "phone": "",
       "email": "",
@@ -363,7 +363,7 @@
       "hiringFor": ""
     },
     {
-      "region": "Europe",
+      "region": "Concessionaire",
       "partner": "SKS Production LTD",
       "phone": "",
       "email": "",
@@ -373,8 +373,18 @@
   ],
   "Monaco": [
     {
-      "region": "Europe",
+      "region": "Concessionaire",
       "partner": "Rossetti Cruise Entertainment (RCE)",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hiringFor": ""
+    }
+  ],
+  "Cyprus (Concessionaire)": [
+    {
+      "region": "Concessionaire",
+      "partner": "MS Security Personnel (Mano Security)",
       "phone": "",
       "email": "",
       "website": "",
@@ -383,8 +393,34 @@
   ],
   "Switzerland": [
     {
-      "region": "Europe",
+      "region": "Concessionaire",
       "partner": "Ladybug",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hiringFor": ""
+    }
+  ],
+  "Italy (Concessionaire)": [
+    {
+      "region": "Concessionaire",
+      "partner": "Camus",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hiringFor": ""
+    },
+    {
+      "region": "Concessionaire",
+      "partner": "EFFY",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hiringFor": ""
+    },
+    {
+      "region": "Concessionaire",
+      "partner": "Show Up",
       "phone": "",
       "email": "",
       "website": "",
@@ -393,7 +429,7 @@
   ],
   "Israel": [
     {
-      "region": "Asia",
+      "region": "Concessionaire",
       "partner": "Espit Group",
       "phone": "",
       "email": "",
@@ -403,7 +439,7 @@
   ],
   "United States": [
     {
-      "region": "North America",
+      "region": "Concessionaire",
       "partner": "RWS Worldwide LTD",
       "phone": "",
       "email": "",
@@ -411,7 +447,7 @@
       "hiringFor": ""
     },
     {
-      "region": "North America",
+      "region": "Concessionaire",
       "partner": "PPI Group",
       "phone": "",
       "email": "",
@@ -421,7 +457,7 @@
   ],
   "Panama": [
     {
-      "region": "Central America",
+      "region": "Concessionaire",
       "partner": "Ship Cruise Service SA",
       "phone": "",
       "email": "",
